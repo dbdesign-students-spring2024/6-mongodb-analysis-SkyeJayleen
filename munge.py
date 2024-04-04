@@ -1,6 +1,5 @@
 # Import CSV Module
 import csv
-import os
 
 # Import data
 def get_csv(filepath):
